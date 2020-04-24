@@ -1,7 +1,8 @@
 // webcamqrscanner is an example of how to use a webcam to read a QR code.
 // It used gocv for capturing image from the webcam and gozxing for finding the
 // QR code and decoding it value.
-package main
+
+package main // import "lazyhacker.dev/webcamqrscanner"
 
 import (
 	"flag"
