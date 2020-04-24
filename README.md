@@ -1,0 +1,2 @@
+# webcamqrscanner
+Example for showing 
