@@ -11,3 +11,11 @@ QR code.
 webcamqrscanner requires [GoCV](http://gocv.io) which provides a binding to
 OpenCV 4.  GoCV requires CGO to compile so there are additional steps to build
 and compile OpenCV 4.
+
+## Install
+
+Once [GoCV](http://gocv.io) is installed then install webcamqrscanner with:
+
+```
+go get lazyhacker.dev/webcamqrscanner
+```
